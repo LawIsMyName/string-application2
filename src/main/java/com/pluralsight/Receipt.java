@@ -7,7 +7,8 @@ public class Receipt {
         String word1 = "Lunchable";
         double itemPrice = 5.33;
 
-        System.out.println();
+        // add print function and spaces with variables
+        System.out.println("I bought a" + " " + word1 + "for" + " " + itemPrice);
 
     }
 }
