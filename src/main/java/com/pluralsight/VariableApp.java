@@ -6,8 +6,8 @@ public class VariableApp {
        // add color variable
         String word1 = "Green";
 
-        // add senentnce with variable
-        System.out.println("My favorite color is" + word1);
+        // add senentnce with variable, dont forget the space
+        System.out.println("My favorite color is" + " " +  word1);
 
 
 
