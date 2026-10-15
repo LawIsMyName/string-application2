@@ -9,6 +9,13 @@ public class VariableApp {
         // add senentnce with variable, dont forget the space
         System.out.println("My favorite color is" + " " +  word1);
 
+       // add char variable
+        char favoriteLetter = 'A';
+
+        System.out.println("My favorite letter is" + " " +favoriteLetter);
+
+
+
 
 
     }
