@@ -12,7 +12,8 @@ public class VariableApp {
        // add char variable
         char favoriteLetter = 'A';
 
-        System.out.println("My favorite letter is" + " " +favoriteLetter);
+        // print function with spacing at the end
+        System.out.println("My favorite letter is" + " " + favoriteLetter);
 
 
 
